@@ -1,2 +1,3 @@
-# health-intel-trust
-Creating a Github repository
+# Github Assignment
+## health-intel-trust
+### Creating a Github repository
